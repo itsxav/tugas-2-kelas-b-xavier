@@ -1,0 +1,109 @@
+</head>
+<!-- <img class="absolute -z-10 " src="/src/assets/img/avengers-marvel1.svg" alt=""> -->
+<body class="bg-[#242121] bg-top bg-repeat-x" style="background-image: url(/src/assets/img/avengers-marvel1.svg);"    >
+    <header class="flex flex-row justify-between bg-gradient-to-b from-[#241A1A] to-transparent h-56 ">
+        
+        <div class="">
+            <img src="/src/assets/img/Vector.svg" alt="Logo" class="mb-1 w-44 border-solid border-blue-700 border-4">
+            <p class="-mt-36 ml-12 font-bold text-white">Web<span class="text-[#FF6B59]">TV</span></p>
+        </div>
+        <div class="-ml-14 border-solid border-pink-500 border-4">
+            <ul class="flex flex-row space-x-6 font-semibold mt-6 border-solid border-pink-500 border-4">
+                <li class="text-[#FF6B59]"><a href="#">Drama</a></li>
+                <li class="text-[white]"><a href="#">Comedy</a></li>
+                <li class="text-[white]"><a href="#">Horror</a></li>
+                <li class="text-[white]"><a href="#">Adventure</a></li>
+                <li class="text-white"><a href="#">All</a></li>
+            </ul>
+        </div>
+        <nav>
+            <!-- <div class="mt-24 m-auto border-x-4 border-y-4 border-solid border-sky-300 w-40 rounded-3xl h-10">
+                <input type="text" class="outline-none h-10 w-40 rounded-3xl border-0"><button class="bg-transparent outline-none border-0">search</button>
+            </div> -->
+            <div class="flex flex-row bg-white bg-opacity-10 mt-5 ">
+                <input 
+                type="search"
+                name="search"
+                id="search"
+                placeholder="Search.."
+                class="w-full px-4 py-1 outline-none focus:outline-none bg-transparent"
+                >
+                <button><img src="./src/assets/img/icons8-search.svg"class=" w-6  wh"></button>
+            </div>
+        </nav>
+        <div class="">
+            <img src="./src/assets/img/siironman.png" alt="" class="rounded-full w-14 h-12 mr-6 mt-4 ">
+        </div>
+        <!-- <div class="absolute bg-gradient-to-r from-[#241A1A] to-transparent w-1/2 h-full justify-start">
+        </div>  -->
+    </header>
+    <div class="flex flex-col mt-16 ml-12 mr-52 border-solid border-blue-50 border-4">
+        <h1 class="text-7xl text-white font-bold">Avengers</h1>
+        <h2 class="text-5xl text-white font-bold">Endgame</h2>
+        <p class="text-xl text-white mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam facilis minus laboriosam? Voluptates iure pariatur, ab earum ipsam libero ut officiis aut voluptatem eligendi tempore eius! Unde ea laborum libero.</p>
+    </div>
+    <main class="mt-96 space-y-44">
+        
+        <img class=" absolute ml-5" src="./src/assets/img/image 3.svg" alt="">
+        <img src="./src/assets/img/image 3.svg" alt="">
+        <p class="text-5xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius quis doloremque, eveniet, perferendis hic dignissimos rem praesentium laborum pariatur, natus a delectus blanditiis magni culpa saepe error quas molestias eaque.</p>
+    </main>
+</body>
+</html>
+
+
+
+>>>
+
+</head>
+<!--  -->
+<body class="bg-[#242121]" >
+    <header class="flex flex-row bg-gradient-to-b from-[#241A1A] to-transparent h-56 ">
+        <img class=" -z-50 w-max h-max " src="/src/assets/img/avengers-marvel1.svg" alt="">
+        <div class="absolute">
+            <img src="/src/assets/img/Vector.svg" alt="Logo" class="mb-1 w-44 border-solid border-blue-700 border-4">
+            <p class="-mt-36 ml-12 font-bold text-white">Web<span class="text-[#FF6B59]">TV</span></p>
+        </div>
+        <div class="absolute border-solid border-pink-500 border-4">
+            <ul class="flex flex-row space-x-6 font-semibold mt-6 border-solid border-pink-500 border-4">
+                <li class="text-[#FF6B59]"><a href="#">Drama</a></li>
+                <li class="text-[white]"><a href="#">Comedy</a></li>
+                <li class="text-[white]"><a href="#">Horror</a></li>
+                <li class="text-[white]"><a href="#">Adventure</a></li>
+                <li class="text-white"><a href="#">All</a></li>
+            </ul>
+        </div>
+        <nav>
+            <!-- <div class="mt-24 m-auto border-x-4 border-y-4 border-solid border-sky-300 w-40 rounded-3xl h-10">
+                <input type="text" class="outline-none h-10 w-40 rounded-3xl border-0"><button class="bg-transparent outline-none border-0">search</button>
+            </div> -->
+            <div class="absolute flex flex-row bg-white bg-opacity-10 mt-5 ">
+                <input 
+                type="search"
+                name="search"
+                id="search"
+                placeholder="Search.."
+                class="w-full px-4 py-1 outline-none focus:outline-none bg-transparent"
+                >
+                <button><img src="./src/assets/img/icons8-search.svg"class=" w-6  wh"></button>
+            </div>
+        </nav>
+        <div class="absolute">
+            <img src="./src/assets/img/siironman.png" alt="" class="rounded-full w-14 h-12 mr-6 mt-4 ">
+        </div>
+        <!-- <div class="absolute bg-gradient-to-r from-[#241A1A] to-transparent w-1/2 h-full justify-start">
+        </div>  -->
+    </header>
+    <div class="absolute flex flex-col mt-16 ml-12 mr-52 border-solid border-blue-50 border-4">
+        <h1 class="text-7xl text-white font-bold">Avengers</h1>
+        <h2 class="text-5xl text-white font-bold">Endgame</h2>
+        <p class="text-xl text-white mt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam facilis minus laboriosam? Voluptates iure pariatur, ab earum ipsam libero ut officiis aut voluptatem eligendi tempore eius! Unde ea laborum libero.</p>
+    </div>
+    <main class="mt-96 space-y-44">
+        
+        <img class=" absolute ml-5" src="./src/assets/img/image 3.svg" alt="">
+        <img src="./src/assets/img/image 3.svg" alt="">
+        <p class="text-5xl">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Eius quis doloremque, eveniet, perferendis hic dignissimos rem praesentium laborum pariatur, natus a delectus blanditiis magni culpa saepe error quas molestias eaque.</p>
+    </main>
+</body>
+</html>
